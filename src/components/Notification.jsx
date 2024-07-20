@@ -8,8 +8,18 @@ const Notification = () => {
         style={{ backgroundColor: "#EEF9FD", borderRadius: "0 0 20px 20px" }}
       >
         <div className="container d-flex py-5">
-        <i className="bi bi-arrow-left-short fs-1 fw-bold"></i>
-          <h1 className="m-auto" style={{fontWeight: "500", fontSize: "1.2rem", lineHeight: "1.2rem", letterSpacing: "0.25px"}}>Notification</h1>
+          <i className="bi bi-arrow-left-short fs-1 fw-bold"></i>
+          <h1
+            className="m-auto"
+            style={{
+              fontWeight: "500",
+              fontSize: "1.2rem",
+              lineHeight: "1.2rem",
+              letterSpacing: "0.25px",
+            }}
+          >
+            Notification
+          </h1>
         </div>
       </div>
       {/* border-radius: 50px 20px; */}
@@ -17,7 +27,8 @@ const Notification = () => {
         <div
           style={{
             backgroundColor: "#EEF9FD",
-            boxShadow: "rgba(0, 0, 0, 0.16) 0px 1px 4px",
+            boxShadow:
+              "rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px",
           }}
           className="Card rounded-2 my-3 mx-3 d-flex"
         >
@@ -60,7 +71,8 @@ const Notification = () => {
         <div
           style={{
             backgroundColor: "#EEF9FD",
-            boxShadow: "rgba(0, 0, 0, 0.16) 0px 1px 4px",
+            boxShadow:
+              "rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px",
           }}
           className="Card rounded-2 my-3 mx-3 d-flex"
         >
@@ -103,7 +115,8 @@ const Notification = () => {
         <div
           style={{
             backgroundColor: "#EEF9FD",
-            boxShadow: "rgba(0, 0, 0, 0.16) 0px 1px 4px",
+            boxShadow:
+              "rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px",
           }}
           className="Card rounded-2 my-3 mx-3 d-flex"
         >
@@ -146,7 +159,8 @@ const Notification = () => {
         <div
           style={{
             backgroundColor: "#EEF9FD",
-            boxShadow: "rgba(0, 0, 0, 0.16) 0px 1px 4px",
+            boxShadow:
+              "rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px",
           }}
           className="Card rounded-2 my-3 mx-3 d-flex"
         >
