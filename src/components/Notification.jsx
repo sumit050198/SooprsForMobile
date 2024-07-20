@@ -31,7 +31,7 @@ const Notification = () => {
             <p
               className="m-0"
               style={{
-                fontSize: "1rem",
+                fontSize: "0.8rem",
                 fontWeight: "500",
                 lineHeight: "19px",
               }}
@@ -41,7 +41,7 @@ const Notification = () => {
             <p
               className="text-secondary m-0 p-0 mt-2"
               style={{
-                fontSize: "0.8rem",
+                fontSize: "0.6rem",
                 fontWeight: "500",
                 lineHeight: "19px",
               }}
@@ -74,7 +74,7 @@ const Notification = () => {
             <p
               className="m-0"
               style={{
-                fontSize: "1rem",
+                fontSize: "0.8rem",
                 fontWeight: "500",
                 lineHeight: "19px",
               }}
@@ -84,7 +84,7 @@ const Notification = () => {
             <p
               className="text-secondary m-0 p-0 mt-2"
               style={{
-                fontSize: "0.8rem",
+                fontSize: "0.6rem",
                 fontWeight: "500",
                 lineHeight: "19px",
               }}
@@ -117,7 +117,7 @@ const Notification = () => {
             <p
               className="m-0"
               style={{
-                fontSize: "1rem",
+                fontSize: "0.8rem",
                 fontWeight: "500",
                 lineHeight: "19px",
               }}
@@ -127,7 +127,7 @@ const Notification = () => {
             <p
               className="text-secondary m-0 p-0 mt-2"
               style={{
-                fontSize: "0.8rem",
+                fontSize: "0.6rem",
                 fontWeight: "500",
                 lineHeight: "19px",
               }}
@@ -160,7 +160,7 @@ const Notification = () => {
             <p
               className="m-0"
               style={{
-                fontSize: "1rem",
+                fontSize: "0.8rem",
                 fontWeight: "500",
                 lineHeight: "19px",
               }}
@@ -170,7 +170,7 @@ const Notification = () => {
             <p
               className="text-secondary m-0 p-0 mt-2"
               style={{
-                fontSize: "0.8rem",
+                fontSize: "0.6rem",
                 fontWeight: "500",
                 lineHeight: "19px",
               }}
