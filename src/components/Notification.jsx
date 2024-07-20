@@ -159,8 +159,7 @@ const Notification = () => {
         <div
           style={{
             backgroundColor: "#EEF9FD",
-            boxShadow:
-              "rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px",
+            boxShadow: "rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px"
           }}
           className="Card rounded-2 my-3 mx-3 d-flex"
         >
